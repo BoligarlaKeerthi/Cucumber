@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"7516a67b-00d7-48dd-b69f-28abb981ec6a","feature":"Create account on wiki page","scenario":"User creates account on wiki page using input from cucumber data table","start":1697798893142,"group":1,"content":"","tags":"","end":1697798898606,"className":"passed"},{"id":"e4a33e7e-a5fe-4c8e-b5d6-41004de9c5f9","feature":"Create account on wiki page","scenario":"User creates account on wiki page using input from cucumber data table","start":1697798885388,"group":1,"content":"","tags":"","end":1697798893106,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
